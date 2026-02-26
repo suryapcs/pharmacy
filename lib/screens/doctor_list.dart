@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'ai_chat_screen.dart';
 import 'dummy_doctors.dart';
-import 'appointment_screen.dart'; // 👈 make sure this exists
+import 'appointment_screen.dart'; 
 
 class DoctorListScreen extends StatelessWidget {
   final String specialization;
